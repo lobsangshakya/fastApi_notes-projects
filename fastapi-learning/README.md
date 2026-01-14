@@ -14,8 +14,6 @@ Welcome to my comprehensive FastAPI learning repository! This collection contain
 ## Repository Structure
 
 - **`notes/`**: Detailed notes on FastAPI internals, HTTP semantics, security concepts, and best practices
-- **`projects/`**: Practical projects demonstrating real-world FastAPI applications
-- **`scripts/`**: Utility scripts for development workflow and automation
 
 ## Quick Start
 
@@ -35,15 +33,9 @@ Welcome to my comprehensive FastAPI learning repository! This collection contain
    cat notes/fastapi_core_concepts.md
    ```
 
-4. Run any project locally:
-   ```bash
-   cd projects/todo_app
-   uvicorn main:app --reload
-   ```
-
 
 ## Continuous Learning
 
 This repository is a living document of my FastAPI journey. Each concept builds upon previous knowledge, creating a comprehensive learning path from beginner to advanced user.
 
-Ready to dive deep into FastAPI? Start with the notes and explore the projects to solidify your understanding!
+Ready to dive deep into FastAPI? Start with the notes to solidify your understanding!
