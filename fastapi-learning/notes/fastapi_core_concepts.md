@@ -1,4 +1,4 @@
-# 🌐 HTTP Status Codes (Core Backend Knowledge)
+# HTTP Status Codes (Core Backend Knowledge)
 
 ## 200 – OK
 - **What**: Request succeeded
@@ -48,7 +48,7 @@
 - **How**: Pydantic detects type/field mismatch
 - **Example**: Sending string instead of integer
 
-### 🔑 Why FastAPI uses 422 instead of 400
+### Why FastAPI uses 422 instead of 400
 - Request syntax is valid, but data doesn't match expected schema
 
 ## 500 – Internal Server Error
@@ -57,7 +57,7 @@
 - **How**: Logic error, DB crash, runtime issue
 - **Example**: Division by zero, DB connection failure
 
-# 🔐 Sensitive Data (Security Concept)
+# Sensitive Data (Security Concept)
 
 ## What is Sensitive Data?
 Data that must not be exposed to clients due to security or privacy risks.
@@ -73,7 +73,7 @@ Data that must not be exposed to clients due to security or privacy risks.
 - Prevents privilege escalation
 - Protects user privacy
 
-# 📥 Request vs 📤 Response Models (FastAPI)
+# Request vs Response Models (FastAPI)
 
 ## Request Model
 - Validates incoming data
@@ -86,11 +86,11 @@ Data that must not be exposed to clients due to security or privacy risks.
 - Hides sensitive fields
 - Ensures consistent responses
 
-### 🔑 Key idea
+### Key idea
 - Request models protect the backend
 - Response models protect the client
 
-# ⚙️ FastAPI Internals & Request Lifecycle
+# FastAPI Internals & Request Lifecycle
 
 ## High-Level Flow
 ```
