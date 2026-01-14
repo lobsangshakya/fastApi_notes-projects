@@ -37,5 +37,3 @@ Welcome to my comprehensive FastAPI learning repository! This collection contain
 ## Continuous Learning
 
 This repository is a living document of my FastAPI journey. Each concept builds upon previous knowledge, creating a comprehensive learning path from beginner to advanced user.
-
-Ready to dive deep into FastAPI? Start with the notes to solidify your understanding!
