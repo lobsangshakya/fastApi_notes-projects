@@ -17,6 +17,8 @@ Welcome to my comprehensive FastAPI learning repository! This collection contain
 
 ## Quick Start
 
+To get started with this repository:
+
 1. Clone the repository:
    ```bash
    git clone "https://github.com/lobsangshakya/fastApi_notes-projects"
