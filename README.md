@@ -1,6 +1,6 @@
 # FastAPI Learning Journey
 
-Welcome to my comprehensive FastAPI learning repository! This collection contains detailed notes, hands-on projects, and practical examples to master FastAPI development from basics to advanced concepts.
+Welcome to my comprehensive FastAPI learning repository! This collection contains detailed notes with practical examples to master FastAPI development from basics to advanced concepts.
 
 ## Learning Objectives
 
@@ -16,6 +16,8 @@ Welcome to my comprehensive FastAPI learning repository! This collection contain
 - **`notes/`**: Detailed notes on FastAPI internals, HTTP semantics, security concepts, and best practices
 
 ## Quick Start
+
+To get started with this repository:
 
 1. Clone the repository:
    ```bash
