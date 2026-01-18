@@ -15,14 +15,27 @@ Welcome to my comprehensive FastAPI learning repository! This collection contain
 
 - **`notes/`**: Detailed notes on FastAPI internals, HTTP semantics, security concepts, and best practices
 
-## Quick Start
+## Table of Contents
 
-To get started with this repository:
+### Study Notes
+
+1. [What is FastAPI](./notes/01_what_is_fastapi.md) - Purpose and advantages
+2. [Setup and Installation](./notes/02_setup_and_installation.md) - Getting started with FastAPI
+3. [Project Directory Structure](./notes/03_project_directory_structure.md) - Organizing your FastAPI project
+4. [Creating Your First FastAPI App](./notes/04_first_fastapi_app.md) - Building your initial application
+5. [Path Operations](./notes/05_path_operations.md) - GET, POST, PUT, DELETE operations
+6. [Pydantic Request & Response Models](./notes/06_pydantic_request_response_models.md) - Data validation and serialization
+7. [Dependency Injection](./notes/07_dependency_injection.md) - Managing dependencies in FastAPI
+
+### Core Concepts Notes
+
+- [FastAPI Core Concepts](./notes/00-IMP-fastapi_core_concepts.md) - HTTP status codes, sensitive data, request/response models
+
+## Quick Start
 
 1. Clone the repository:
    ```bash
    git clone "https://github.com/lobsangshakya/fastApi_notes-projects"
-   cd fastapi-learning
    ```
 
 2. Install dependencies:
