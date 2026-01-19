@@ -26,6 +26,7 @@ Welcome to my comprehensive FastAPI learning repository! This collection contain
 5. [Path Operations](./notes/05_path_operations.md) - GET, POST, PUT, DELETE operations
 6. [Pydantic Request & Response Models](./notes/06_pydantic_request_response_models.md) - Data validation and serialization
 7. [Dependency Injection](./notes/07_dependency_injection.md) - Managing dependencies in FastAPI
+8. [JWT Authentication with DI](./notes/08_jwt_authentication_with_di.md) - Secure authentication patterns
 
 ### Core Concepts Notes
 
