@@ -13,3 +13,4 @@ I am learning FastAPI.
 - [06_pydantic_request_response_models.md](./notes/06_pydantic_request_response_models.md)
 - [07_dependency_injection.md](./notes/07_dependency_injection.md)
 - [08_jwt_authentication_with_di.md](./notes/08_jwt_authentication_with_di.md)
+--
